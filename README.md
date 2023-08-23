@@ -1,1 +1,1 @@
-# fortune
+# get a daily fortune
